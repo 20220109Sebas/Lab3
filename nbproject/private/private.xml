@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/FPSFactory.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/GameFactory.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/Client.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/Character.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/Weapon.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/PCWarrior.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/MobileSword.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/RPGGame.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/FPSGame.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/MobileWarrior.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/Warrior.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/Main.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/PCFactory.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/PuzzleGame.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/PCSword.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/Game.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/RPGFactory.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/FabricaJuegos/PuzzleFactory.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/MobileFactory.java</file>
+            <file>file:/Users/sebastianalvarez/NetBeansProjects/LAB3/src/abstractfactory/GameElementFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
